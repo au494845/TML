@@ -7,6 +7,4 @@ This project revolves around creating a TinyML solution on the Particle Photon2 
 - Other sensors may be added if the project requires so
 
 Inital ideas for the project are:
-- Register if someone is knocking on the front door, using audio and possibly acceleration sensor. The solution can then send an email as notification.
-
-- Detect human prescense in a room using audio to detect breathing
+- Door-knock detection. Register if someone is knocking on the front door, using audio and possibly acceleration sensor. The solution can then send an email as notification.
